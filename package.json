@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "mongoose": "^8.14.3"
+  },
+  "name": "mern-goalsetter-app",
+  "version": "1.0.0",
+  "description": "for practice ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "author": "Jahid Shekh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
